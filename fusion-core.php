@@ -15,7 +15,7 @@
 
 // Plugin version.
 if ( ! defined( 'FUSION_CORE_VERSION' ) ) {
-	define( 'FUSION_CORE_VERSION', '5.8.2' );
+	define( 'FUSION_CORE_VERSION', '7.1' );
 }
 
 // Minimum PHP version required.
